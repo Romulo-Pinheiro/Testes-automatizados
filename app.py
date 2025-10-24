@@ -241,5 +241,3 @@ def teste_adicionar_e_conferir_carrinho():
         print("❌ O sistema não funcionou conforme esperado")
 
     driver.quit()
-
-teste_adicionar_e_conferir_carrinho()
